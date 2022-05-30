@@ -4,7 +4,7 @@
 
 ## :information_source: About
 
- - Node.JS Enjoyer
+ - Node.JS and TypeScript Enjoyer
  - C# Beginner
  - Developing plugins for [SCP:SL](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/)
  - Developing private bots on [Discord.JS](https://discord.js.org)
